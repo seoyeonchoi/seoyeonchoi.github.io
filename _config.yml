@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : eoeon
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio.jpg"
   bio    : "Seoyeon Choi"
   location         : "Republic of Korea" 
   links:
