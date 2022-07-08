@@ -58,9 +58,9 @@ __볼드로 진하게 만들다가*이탤릭으로 기울이고*다시 볼드로
 
 ## 8. 이미지(image): 보여주기
 유형1('이미지' 삽입) :
-![이미지](https://raw.githubusercontent.com/seoyeonchoi/mypage/main/%EA%B3%A0%EC%8B%AC.png "고심하이")
-유형2('사이즈를 조절'하고 싶은 경우 HTML 태그로 처리) :
-<img src = "https://raw.githubusercontent.com/seoyeonchoi/mypage/main/%EA%B3%A0%EC%8B%AC.png" width="300" height="300">
-유형3(이미지 삽입 후, '링크 걸기') :
-[![이미지]([https://raw.githubusercontent.com/seoyeonchoi/mypage/main/%EA%B3%A0%EC%8B%AC.png])](https://seoyeonchoi.github.io/) 
+![이미지](https://raw.githubusercontent.com/seoyeonchoi/mypage/main/%EA%B3%A0%EC%8B%AC.png "고심하이")  
+#유형2('사이즈를 조절'하고 싶은 경우 HTML 태그로 처리) :
+<img src = "https://raw.githubusercontent.com/seoyeonchoi/mypage/main/%EA%B3%A0%EC%8B%AC.png" width="300" height="300">  
+#유형3(이미지 삽입 후, '링크 걸기') :
+[![이미지]([https://raw.githubusercontent.com/seoyeonchoi/mypage/main/%EA%B3%A0%EC%8B%AC.png])](https://seoyeonchoi.github.io/)  
 
